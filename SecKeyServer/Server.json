@@ -1,0 +1,11 @@
+{
+   "shmkey" : "/usr/local",
+   "maxnode" : 5,
+   "mysql_db" : "mydb",
+   "mysql_passwd" : "Test@123456",
+   "mysql_port" : 3306,
+   "mysql_use" : "root",
+   "server_prot" : 8080,
+   "serverid" : "1111",
+   "serverip" : "114.132.58.76"
+}
