@@ -1,0 +1,8 @@
+{
+   "shmkey" : "/usr",
+   "maxnode" : 1,
+   "clientid" : "1",
+   "server_prot" : 8080,
+   "serverid" : "1111",
+   "serverip" : "127.0.0.1"
+}
