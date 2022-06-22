@@ -1,7 +1,0 @@
-{
-    "dbname": "mydb",
-    "dbpasswd": "Test@123456",
-    "dbport": "3306",
-    "dbuser": "root",
-    "hostname": "114.132.58.76"
-}
