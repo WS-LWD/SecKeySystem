@@ -6,7 +6,7 @@
 
 struct ClientInfo
 {
-	char clinetID[12];			// 客户端ID
+	char clinetID[12];			// 客户端ID 
 	char serverID[12];			// 服务器ID
 	char serverIP[32];			// 服务器IP
 	unsigned short serverPort;	// 服务器端口
