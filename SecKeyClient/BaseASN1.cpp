@@ -9,7 +9,7 @@ BaseASN1::BaseASN1()
 {
 }
 
-// 不知道干什么的一个宏, 尼玛...
+// 不知道干什么的一个宏, 尼玛
 #define OIDDEF(tag, oidValue) {tag, {oidValue,sizeof(oidValue),0,1,0,0,0} }
 
 ITCAST_INT BaseASN1::DER_ItAsn1_Low_GetTagInfo(ITCAST_UINT8 **ppDerData, ITCAST_UINT32 **ppTagValue, ITCAST_UINT32 **ppTagSize)
